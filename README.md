@@ -4,9 +4,13 @@ I got into computers through gaming, and have always loved spending time playing
 
 Territory Wars is a real-time multiplayer territory-capture game in the spirit of Splix.io. Carve out land on a 500×500 grid, defend your turf, and outmaneuver other players and AI bots.
 
-![Splash screen](SplashScreen.png)
+<p align="center">
+  <img src="SplashScreen.png" alt="Splash screen" />
+</p>
 
-![Gameplay](GamePlay.png)
+<p align="center">
+  <img src="GamePlay.png" alt="Gameplay" />
+</p>
 
 ## How it's built
 
